@@ -1,30 +1,47 @@
 # Hi there, I'm Karthik B
 
-Welcome to my GitHub! I'm a Computer Science student passionate about building projects that blend real-world data with smart solutions. Whether it's detecting phishing sites using machine learning, building intelligent systems, or exploring the world of algorithms and system monitoring — I enjoy diving into the technical side of computing.
+Welcome to my GitHub! I'm a Computer Science student driven by a passion for creating tech solutions that merge real-world data with intelligent systems. From detecting phishing sites using machine learning to optimizing system performance and building smarter authentication methods, I enjoy crafting software with impact.
 
 ---
 
 ## About Me
 
-- I’m currently pursuing my degree in Computer Science.
-- I enjoy working on Machine Learning, Cybersecurity, and Data-Driven Applications.
-- I enjoy turning raw data into insights and building systems with real-world impact.
-- Currently working on a Crop Recommendation System and Real-time System Resource Monitoring.
+- Currently pursuing a degree in **Computer Science**.
+- Passionate about **Machine Learning**, **Cybersecurity**, and **Data-Driven Applications**.
+- I love turning raw data into meaningful insights and building systems that solve real-world problems.
+- Currently working on:
+  - A **Crop Recommendation System** using R and soil datasets.
+  - A **Real-time System Resource Monitoring Tool** with automated email alerts.
+  - A **Keystroke Dynamics-Based Authenticator** using HMMs for secure login verification.
 
 ---
 
-## Projects Highlight
+## Featured Projects
 
-- **[Phishing Detection](https://github.com/KArT4206/phishing-detection)**: ML-based system for classifying phishing websites using URL features.
-- **[Phishing Website](https://github.com/KArT4206/phishing_website)**: Another approach to phishing detection using rule-based and ML models.
-- **[Crop Recommendation System (in R)](https://github.com/KArT4206/Soil-Driven_Crop_Recommendation_System)**: Recommends suitable crops based on soil data analysis.
-- **[Real-time System Resource Monitoring with Email Alerts](https://github.com/KArT4206/System_Resource_Usage_Monitor_with_Email_Alerts)**: Monitors system resources in real-time and sends email alerts for critical thresholds.
-- **[Traffic Light Scheduling System](https://github.com/KArT4206/Traffic_Light_Scheduling_System)**: A smart scheduling algorithm to manage traffic light sequences and reduce congestion.
-- **[VibeHive – Social Blogging Made Easy](https://github.com/KArT4206/Vibe-hive_SocialBloggingMadeEasy)**: A lightweight and user-friendly social blogging platform for easy content sharing and discovery.
+- **[Keystroke Dynamics Web Authenticator](https://github.com/KArT4206/Keystroke-Dynamics-Web-Authenticator)**  
+  A behavior-based login system that authenticates users by analyzing their unique typing patterns using PHP and JavaScript.
+
+- **[Phishing Detection](https://github.com/KArT4206/phishing-detection)**  
+  ML-based solution for detecting phishing websites by analyzing URL features.
+
+- **[Phishing Website](https://github.com/KArT4206/phishing_website)**  
+  Combines rule-based logic with ML for identifying malicious sites.
+
+- **[Soil-Driven Crop Recommendation System](https://github.com/KArT4206/Soil-Driven_Crop_Recommendation_System)**  
+  Recommends suitable crops using soil nutrient data and classification models (built in R).
+
+- **[System Resource Monitor with Email Alerts](https://github.com/KArT4206/System_Resource_Usage_Monitor_with_Email_Alerts)**  
+  Real-time monitoring system that sends alerts when CPU, memory, or disk usage exceeds thresholds.
+
+- **[Traffic Light Scheduling System](https://github.com/KArT4206/Traffic_Light_Scheduling_System)**  
+  Smart traffic signal controller that reduces congestion using scheduling logic.
+
+- **[VibeHive – Social Blogging Made Easy](https://github.com/KArT4206/Vibe-hive_SocialBloggingMadeEasy)**  
+  A clean and lightweight social blogging platform for seamless content sharing.
 
 ---
 
-## Languages & Tools
+## Languages & Tools I Use
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
@@ -38,8 +55,6 @@ Welcome to my GitHub! I'm a Computer Science student passionate about building p
 
 ---
 
-## Let's Connect
+## Let's Connect!
 
-Thanks for visiting my profile. Feel free to explore my repositories and reach out if you're interested in collaborating or just want to chat about tech.
-
----
+Thanks for dropping by! Feel free to check out my projects — and if you’d like to collaborate or just geek out over tech, don't hesitate to reach out.
