@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a Computer Science student driven by a passion for cre
 
 ## Featured Projects
 
-- **[Keystroke Dynamics Web Authenticator](https://github.com/KArT4206/Keystroke-Dynamics-Web-Authenticator)**  
+- **[Keystroke Dynamics Web Authenticator](https://github.com/KArT4206/Project_Keystroke_Dynamics_Authenticator_HMMs)**  
   A behavior-based login system that authenticates users by analyzing their unique typing patterns using PHP and JavaScript.
 
 - **[Phishing Detection](https://github.com/KArT4206/phishing-detection)**  
