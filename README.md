@@ -26,9 +26,6 @@ Welcome to my GitHub! I'm a Computer Science student driven by a passion for cre
 - **[Phishing Detection (ML-Based)](https://github.com/KArT4206/phishing-detection_using-ML)**  
   Machine learning model that identifies phishing websites by analyzing URL-based features.
 
-- **[Phishing Website (Rule + ML)](https://github.com/KArT4206/phishing_website)**  
-  Hybrid model using rule-based logic and ML classifiers for phishing detection.
-
 - **[Soil-Driven Crop Recommendation System](https://github.com/KArT4206/Soil-Driven_Crop_Recommendation_System)**  
   Recommends crops using soil nutrient data and classification algorithms (built in R).
 
