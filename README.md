@@ -18,10 +18,7 @@ Welcome to my GitHub! I'm a Computer Science student driven by a passion for cre
 ##  Featured Projects
 
 <!-- PROJECTS:START -->
-- [KArT4206](https://github.com/KArT4206/KArT4206) — My GitHub profile repository containing my personal README and profile info.
 <!-- PROJECTS:END -->
-
-
 
 ---
 
