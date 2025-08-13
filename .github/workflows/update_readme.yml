@@ -2,7 +2,7 @@ name: Update README with featured projects
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # runs every day at midnight UTC
+    - cron: '0 0 * * *'   # runs every day at midnight UT
   workflow_dispatch:
 
 permissions:
