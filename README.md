@@ -18,6 +18,7 @@ Welcome to my GitHub! I'm a Computer Science student driven by a passion for cre
 ##  Featured Projects
 
 <!-- PROJECTS:START -->
+_No pinned projects found_
 <!-- PROJECTS:END -->
 
 ---
