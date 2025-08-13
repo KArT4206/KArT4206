@@ -18,7 +18,6 @@ Welcome to my GitHub! I'm a Computer Science student driven by a passion for cre
 ##  Featured Projects
 
 <!-- PROJECTS:START -->
-
 <!-- PROJECTS:END -->
 
 
