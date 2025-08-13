@@ -1,32 +1,40 @@
 import requests
 import os
 
-USERNAME = "KArT4206"
+USERNAME = "KArT4206"  # Change to your GitHub username if needed
 README_FILE = "README.md"
 
-# Fetch pinned repos from GitHub API
+# Query the pinned repos API
 url = f"https://gh-pinned-repos.egoist.dev/?username={USERNAME}"
-repos = requests.get(url).json()
+try:
+    repos = requests.get(url).json()
+except Exception as e:
+    print(f"API error: {e}")
+    repos = []
 
 project_lines = []
 for repo in repos:
     name = repo['repo']
     description = repo.get('description', '')
     link = repo['link']
-    project_lines.append(f"- [{name}]({link}) — {description}")
+    line = f"- [{name}]({link}) — {description}"
+    project_lines.append(line)
 
 projects_md = "\n".join(project_lines)
 
-# Update README between markers
+# Read and update README.md
+start_marker = "<!-- PROJECTS:START -->"
+end_marker = "<!-- PROJECTS:END -->"
+
 with open(README_FILE, "r", encoding="utf-8") as f:
     readme = f.read()
 
-start = "<!-- PROJECTS:START -->"
-end = "<!-- PROJECTS:END -->"
+if start_marker not in readme or end_marker not in readme:
+    print("Markers not found in README.md")
+    exit(1)
 
-before = readme.split(start)[0] + start + "\n"
-after = "\n" + end + readme.split(end)[1]
-
+before = readme.split(start_marker)[0] + start_marker + "\n"
+after = "\n" + end_marker + readme.split(end_marker)[1]
 new_readme = before + projects_md + after
 
 with open(README_FILE, "w", encoding="utf-8") as f:
