@@ -1,9 +1,9 @@
-name: Update README with latest projects
+name: Update README with featured projects
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # Runs every day at midnight UTC
-  workflow_dispatch:        # Allows manual run
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
