@@ -15,14 +15,6 @@ Welcome to my GitHub! I'm a Computer Science student driven by a passion for cre
 
 ---
 
-##  Featured Projects
-
-<!-- PROJECTS:START -->
-_No pinned projects found_
-<!-- PROJECTS:END -->
-
----
-
 ##  Languages & Tools I Use
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
