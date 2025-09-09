@@ -12,6 +12,8 @@ Welcome to my GitHub! I'm a Computer Science student driven by a passion for cre
 -  Currently working on:
   - A **Real-time System Resource Monitoring Tool** with email alerts
   - A **Keystroke Dynamics-Based Authenticator** using HMMs for secure login verification
+  - A **Real-Time Face-Based rPPG Heart Rate Monitor**
+  - A **DNA-Mutation-Detection**A Python-based project for detecting and analyzing mutations in DNA sequences. 
 
 ---
 
