@@ -35,6 +35,7 @@ Welcome to my GitHub! I'm a Computer Science student driven by a passion for cre
 
 Thanks for visiting! If you're interested in collaboration, mentorship, or just want to geek out over tech—I'm always happy to connect.
 
+- Portfolio: [ Karthik B ](https://portfolio-kart4206s-projects.vercel.app)
 - LinkedIn: [ Karthik B](https://www.linkedin.com/in/karthik-b-0b8905362)
 - GitHub: [KArT4206](https://github.com/KArT4206)
 
