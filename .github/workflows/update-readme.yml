@@ -11,6 +11,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -25,8 +29,12 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit if changed
         run: |
-          if git diff --quiet README.md; then echo "No changes"; exit 0; fi
+          # ignore runs where only the "last run" timestamp moved
+          if [ -z "$(git diff -U0 README.md | grep '^[+-][^+-]' | grep -v 'last run')" ]; then
+            git checkout README.md; echo "No project changes"; exit 0
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -am "Refresh project list"
+          git pull --rebase
           git push
