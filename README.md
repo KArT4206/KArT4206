@@ -51,12 +51,22 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 <tr>
 <td width="50%" valign="top">
 
+**[VaultRecover](https://github.com/KArT4206/VaultRecover)**<br>
+<sub>Free, honest password recovery for your own ZIP and PDF files: verifies every candidate against the real file (Next.js, Prisma, BullMQ)</sub>
+
+`nextjs` `password-recovery` `prisma` `security`
+
+</td>
+<td width="50%" valign="top">
+
 **[CSC Retina ML](https://github.com/KArT4206/CSC-Retina-ML)**<br>
 <sub>CSC detection on OCT with multi-model fusion, NSGA-II and MC-Dropout referral</sub>
 
 `deep-learning` `genetic-algorithm` `medical-imaging` `oct`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[ERM Triage Engine](https://github.com/KArT4206/ERM-Triage-Engine)**<br>
@@ -65,20 +75,10 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 `deep-learning` `medical-imaging` `oct` `pytorch`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[document summary assistant](https://github.com/KArT4206/document-summary-assistant)**<br>
 <sub>AI document summarization (PDF/OCR extraction, Gemini with Ollama fallback)</sub>
-
-
-
-</td>
-<td width="50%" valign="top">
-
-**[Fog Based Multi Node Environmental Anomaly Detection on ESP32](https://github.com/KArT4206/Fog-Based-Multi-Node-Environmental-Anomaly-Detection-on-ESP32)**<br>
-<sub>Three-ESP32 fog/edge environmental and safety monitoring with context-aware anomaly scoring and a local dashboard</sub>
 
 
 
@@ -107,10 +107,11 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 </details>
 
 <details open>
-<summary><b>Cybersecurity</b> · 4</summary>
+<summary><b>Cybersecurity</b> · 5</summary>
 
 | Project | What it does | Updated | |
 |---|---|---|---|
+| [VaultRecover](https://github.com/KArT4206/VaultRecover) | Free, honest password recovery for your own ZIP and PDF files: verifies every candidate against the real file (Next.js, Prisma, BullMQ) | 2026-10-22 | [Repo](https://github.com/KArT4206/VaultRecover) |
 | [ai secure voice assistant](https://github.com/KArT4206/ai_secure_voice_assistant) | Voice assistant with keystroke-dynamics login, speech-to-text, sentiment, intent and summarisation | 2026-10-08 | [Repo](https://github.com/KArT4206/ai_secure_voice_assistant) |
 | [advanced phishing detection](https://github.com/KArT4206/advanced_phishing_detection) | PhishShield: multi-heuristic phishing detection (TLS, WHOIS, OCR, visual and NLP checks) | 2026-10-08 | [Repo](https://github.com/KArT4206/advanced_phishing_detection) |
 | [phishing detection using ML](https://github.com/KArT4206/phishing-detection_using-ML) | This project uses machine learning models like Decision Tree, Random Forest, and XGBoost to detect phishing websites based on extracted URL… | 2026-10-08 | [Repo](https://github.com/KArT4206/phishing-detection_using-ML) |
@@ -201,13 +202,13 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 <!-- STATS:START -->
 <p align="center">
-<img src="https://img.shields.io/badge/public%20projects-17-0f172a?style=for-the-badge&labelColor=1d4ed8" alt="public projects">
+<img src="https://img.shields.io/badge/public%20projects-18-0f172a?style=for-the-badge&labelColor=1d4ed8" alt="public projects">
 <img src="https://img.shields.io/badge/stars-1-0f172a?style=for-the-badge&labelColor=b45309" alt="stars">
 <img src="https://img.shields.io/badge/followers-4-0f172a?style=for-the-badge&labelColor=047857" alt="followers">
 <img src="https://img.shields.io/badge/on%20GitHub%20since-2024-0f172a?style=for-the-badge&labelColor=7c3aed" alt="since">
 </p>
 
-<p align="center"><sub>Project list refreshed automatically · last run 21 Oct 2026, 18:54 UTC</sub></p>
+<p align="center"><sub>Project list refreshed automatically · last run 22 Oct 2026, 10:44 UTC</sub></p>
 <!-- STATS:END -->
 
 <p align="center">
