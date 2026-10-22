@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/KArT4206">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=CS+undergraduate+%40+VIT+Chennai+(2023%E2%80%932027);Best+Paper+Award+%C2%B7+ICDSBS+2026+(IEEE);Medical+imaging+%C2%B7+uncertainty-aware+deep+learning;Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+ESP32" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=Head+Developer+%C2%B7+TN+Vendor+project%2C+Govt.+of+Tamil+Nadu;CS+undergraduate+%40+VIT+Chennai+(2023%E2%80%932027);Best+Paper+Award+%C2%B7+ICDSBS+2026+(IEEE);Medical+imaging+%C2%B7+uncertainty-aware+deep+learning;Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+ESP32" alt="Typing intro" />
   </a>
 </p>
 
@@ -21,16 +21,28 @@
 
 ```yaml
 name:      Karthik B
-education: B.Tech, Computer Science and Engineering · VIT Chennai (2023–2027)
+role:      Head Developer · TN Vendor project, Government of Tamil Nadu (current)
+education: B.Tech, Computer Science and Engineering (SCOPE) · VIT Chennai (2023–2027)
 building:  production full-stack platforms, applied AI and computer vision, fog/edge IoT
-research:
-  - Best Paper Award, ICDSBS 2026 (IEEE Madras & Singapore Sections):
-      "Intelligent Traffic Monitoring and Management for Real-Time Vehicle Tracking in Smart Cities"
-  - Presenter, ICAISDGs 2025:
-      "Multi-Heuristic Phishing Detection System Using TLS, WHOIS, and OCR"
-  - Uncertainty-aware OCT analysis: epiretinal membrane triage and CSC detection
-interests: [AI/ML, full-stack, cybersecurity, embedded systems, research]
+focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 ```
+
+## Experience
+
+| Role | Organisation | Period |
+|---|---|---|
+| **Head Developer**, TN Vendor project | Government of Tamil Nadu | Current |
+| **Electronics Team**: live race-car telemetry (speed, location) to the pit crew over long-range LoRa radio | Team Blitz Racing, Chennai | Sep 2024 – present |
+
+## Honors & research
+
+| | Recognition | Work |
+|---|---|---|
+| 🏆 | **Best Paper Award**, 3rd International Conference on Data Science & Business Systems (ICDSBS 2026), IEEE Madras & Singapore Sections | *Intelligent Traffic Monitoring and Management for Real-Time Vehicle Tracking in Smart Cities* |
+| 🎤 | **Research Presenter**, ICAISDGs 2025, international AI conference | *Multi-Heuristic Phishing Detection System Using TLS, WHOIS, and OCR* |
+| 📄 | **Research paper** | *Fog-Based Multi-Node Environmental Anomaly Detection on ESP32* |
+| 🔬 | **Research in progress** | Uncertainty-aware OCT analysis: epiretinal membrane triage and CSC detection with multi-model feature fusion |
+| 🎓 | **Life Member** | Chendur Research Foundation (CRF) |
 
 ## Latest work
 
@@ -144,6 +156,8 @@ interests: [AI/ML, full-stack, cybersecurity, embedded systems, research]
 <table>
 <tr><td><b>Languages</b></td><td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
@@ -164,10 +178,12 @@ interests: [AI/ML, full-stack, cybersecurity, embedded systems, research]
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white" alt="YOLOv8">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
 </td></tr>
 <tr><td><b>Data & infra</b></td><td>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
@@ -176,6 +192,8 @@ interests: [AI/ML, full-stack, cybersecurity, embedded systems, research]
 <tr><td><b>Embedded</b></td><td>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+<img src="https://img.shields.io/badge/LoRa-1C3D7A?style=flat-square" alt="LoRa">
+<img src="https://img.shields.io/badge/PCB%20design-2E7D32?style=flat-square" alt="PCB design">
 </td></tr>
 </table>
 
