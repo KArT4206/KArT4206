@@ -204,11 +204,11 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 <p align="center">
 <img src="https://img.shields.io/badge/public%20projects-18-0f172a?style=for-the-badge&labelColor=1d4ed8" alt="public projects">
 <img src="https://img.shields.io/badge/stars-1-0f172a?style=for-the-badge&labelColor=b45309" alt="stars">
-<img src="https://img.shields.io/badge/followers-4-0f172a?style=for-the-badge&labelColor=047857" alt="followers">
+<img src="https://img.shields.io/badge/followers-5-0f172a?style=for-the-badge&labelColor=047857" alt="followers">
 <img src="https://img.shields.io/badge/on%20GitHub%20since-2024-0f172a?style=for-the-badge&labelColor=7c3aed" alt="since">
 </p>
 
-<p align="center"><sub>Project list refreshed automatically · last run 22 Oct 2026, 10:44 UTC</sub></p>
+<p align="center"><sub>Project list refreshed automatically · last run 26 Oct 2026, 11:39 UTC</sub></p>
 <!-- STATS:END -->
 
 <p align="center">
