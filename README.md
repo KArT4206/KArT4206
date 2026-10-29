@@ -51,12 +51,22 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 <tr>
 <td width="50%" valign="top">
 
+**[wp ornaments](https://github.com/KArT4206/wp-ornaments)**<br>
+<sub>3D jewellery e-commerce store for WP Ornaments — Next.js, React Three Fiber, Supabase, Razorpay</sub>
+
+
+
+</td>
+<td width="50%" valign="top">
+
 **[VaultRecover](https://github.com/KArT4206/VaultRecover)**<br>
 <sub>Free, honest password recovery for your own ZIP and PDF files: verifies every candidate against the real file (Next.js, Prisma, BullMQ)</sub>
 
 `nextjs` `password-recovery` `prisma` `security`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[CSC Retina ML](https://github.com/KArT4206/CSC-Retina-ML)**<br>
@@ -65,22 +75,12 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 `deep-learning` `genetic-algorithm` `medical-imaging` `oct`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[ERM Triage Engine](https://github.com/KArT4206/ERM-Triage-Engine)**<br>
 <sub>Uncertainty-aware epiretinal membrane detection and triage on OCT (MC-Dropout ensemble)</sub>
 
 `deep-learning` `medical-imaging` `oct` `pytorch`
-
-</td>
-<td width="50%" valign="top">
-
-**[document summary assistant](https://github.com/KArT4206/document-summary-assistant)**<br>
-<sub>AI document summarization (PDF/OCR extraction, Gemini with Ollama fallback)</sub>
-
-
 
 </td>
 </tr>
@@ -141,10 +141,11 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 </details>
 
 <details open>
-<summary><b>Web & full-stack</b> · 2</summary>
+<summary><b>Web & full-stack</b> · 3</summary>
 
 | Project | What it does | Updated | |
 |---|---|---|---|
+| [wp ornaments](https://github.com/KArT4206/wp-ornaments) | 3D jewellery e-commerce store for WP Ornaments — Next.js, React Three Fiber, Supabase, Razorpay | 2026-10-29 | [Repo](https://github.com/KArT4206/wp-ornaments) |
 | [portfolio](https://github.com/KArT4206/portfolio) | Personal portfolio with a live GitHub feed and admin CMS | 2026-10-08 | [Repo](https://github.com/KArT4206/portfolio) · [Live / docs](https://portfolio-kart4206s-projects.vercel.app) |
 | [Vibe hive SocialBloggingMadeEasy](https://github.com/KArT4206/Vibe-hive_SocialBloggingMadeEasy) | VibeHive is a web-based platform that connects people through real-time chat and blogs. It features secure login, admin controls, blog… | 2026-10-08 | [Repo](https://github.com/KArT4206/Vibe-hive_SocialBloggingMadeEasy) |
 
@@ -202,13 +203,13 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 <!-- STATS:START -->
 <p align="center">
-<img src="https://img.shields.io/badge/public%20projects-18-0f172a?style=for-the-badge&labelColor=1d4ed8" alt="public projects">
+<img src="https://img.shields.io/badge/public%20projects-19-0f172a?style=for-the-badge&labelColor=1d4ed8" alt="public projects">
 <img src="https://img.shields.io/badge/stars-1-0f172a?style=for-the-badge&labelColor=b45309" alt="stars">
-<img src="https://img.shields.io/badge/followers-9-0f172a?style=for-the-badge&labelColor=047857" alt="followers">
+<img src="https://img.shields.io/badge/followers-11-0f172a?style=for-the-badge&labelColor=047857" alt="followers">
 <img src="https://img.shields.io/badge/on%20GitHub%20since-2024-0f172a?style=for-the-badge&labelColor=7c3aed" alt="since">
 </p>
 
-<p align="center"><sub>Project list refreshed automatically · last run 28 Oct 2026, 17:29 UTC</sub></p>
+<p align="center"><sub>Project list refreshed automatically · last run 29 Oct 2026, 17:40 UTC</sub></p>
 <!-- STATS:END -->
 
 <p align="center">
