@@ -146,7 +146,7 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 | Project | What it does | Updated | |
 |---|---|---|---|
 | [portfolio](https://github.com/KArT4206/portfolio) | Personal portfolio with a live GitHub feed and admin CMS | 2026-10-30 | [Repo](https://github.com/KArT4206/portfolio) · [Live / docs](https://portfolio-kart4206s-projects.vercel.app) |
-| [wp ornaments](https://github.com/KArT4206/wp-ornaments) | 3D jewellery e-commerce store for WP Ornaments — Next.js, React Three Fiber, Supabase, Razorpay | 2026-10-29 | [Repo](https://github.com/KArT4206/wp-ornaments) |
+| [wp ornaments](https://github.com/KArT4206/wp-ornaments) | 3D jewellery e-commerce store for WP Ornaments — Next.js, React Three Fiber, Supabase, Razorpay | 2026-10-29 | [Repo](https://github.com/KArT4206/wp-ornaments) · [Live / docs](https://wp-project-orpin.vercel.app/) |
 | [Vibe hive SocialBloggingMadeEasy](https://github.com/KArT4206/Vibe-hive_SocialBloggingMadeEasy) | VibeHive is a web-based platform that connects people through real-time chat and blogs. It features secure login, admin controls, blog… | 2026-10-08 | [Repo](https://github.com/KArT4206/Vibe-hive_SocialBloggingMadeEasy) |
 
 </details>
@@ -205,11 +205,11 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 <p align="center">
 <img src="https://img.shields.io/badge/public%20projects-19-0f172a?style=for-the-badge&labelColor=1d4ed8" alt="public projects">
 <img src="https://img.shields.io/badge/stars-1-0f172a?style=for-the-badge&labelColor=b45309" alt="stars">
-<img src="https://img.shields.io/badge/followers-15-0f172a?style=for-the-badge&labelColor=047857" alt="followers">
+<img src="https://img.shields.io/badge/followers-16-0f172a?style=for-the-badge&labelColor=047857" alt="followers">
 <img src="https://img.shields.io/badge/on%20GitHub%20since-2024-0f172a?style=for-the-badge&labelColor=7c3aed" alt="since">
 </p>
 
-<p align="center"><sub>Project list refreshed automatically · last run 30 Oct 2026, 11:44 UTC</sub></p>
+<p align="center"><sub>Project list refreshed automatically · last run 30 Oct 2026, 17:19 UTC</sub></p>
 <!-- STATS:END -->
 
 <p align="center">
