@@ -51,12 +51,22 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 <tr>
 <td width="50%" valign="top">
 
+**[Sovereign HRMS](https://github.com/KArT4206/Sovereign-HRMS)**<br>
+<sub>Enterprise multi-tenant HRMS with no-code control centre (live demo)</sub>
+
+`hrms` `multi-tenant` `payroll` `react`
+
+</td>
+<td width="50%" valign="top">
+
 **[Smart Enterprise Procurement System](https://github.com/KArT4206/Smart-Enterprise-Procurement-System)**<br>
 <sub>Enterprise Source-to-Pay platform: rule-based approvals, RFQs, POs, goods receipt, 3-way invoice matching</sub>
 
 `erp` `java` `jwt` `postgresql`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[wp ornaments](https://github.com/KArT4206/wp-ornaments)**<br>
@@ -65,22 +75,12 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[VaultRecover](https://github.com/KArT4206/VaultRecover)**<br>
 <sub>Free, honest password recovery for your own ZIP and PDF files: verifies every candidate against the real file (Next.js, Prisma, BullMQ)</sub>
 
 `nextjs` `password-recovery` `prisma` `security`
-
-</td>
-<td width="50%" valign="top">
-
-**[CSC Retina ML](https://github.com/KArT4206/CSC-Retina-ML)**<br>
-<sub>CSC detection on OCT with multi-model fusion, NSGA-II and MC-Dropout referral</sub>
-
-`deep-learning` `genetic-algorithm` `medical-imaging` `oct`
 
 </td>
 </tr>
@@ -141,10 +141,11 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 </details>
 
 <details open>
-<summary><b>Web & full-stack</b> · 4</summary>
+<summary><b>Web & full-stack</b> · 5</summary>
 
 | Project | What it does | Updated | |
 |---|---|---|---|
+| [Sovereign HRMS](https://github.com/KArT4206/Sovereign-HRMS) | Enterprise multi-tenant HRMS with no-code control centre (live demo) | 2026-11-19 | [Repo](https://github.com/KArT4206/Sovereign-HRMS) · [Live / docs](https://sovereign-hrms.vercel.app) |
 | [Smart Enterprise Procurement System](https://github.com/KArT4206/Smart-Enterprise-Procurement-System) | Enterprise Source-to-Pay platform: rule-based approvals, RFQs, POs, goods receipt, 3-way invoice matching | 2026-11-06 | [Repo](https://github.com/KArT4206/Smart-Enterprise-Procurement-System) · [Live / docs](https://kart4206.github.io/Smart-Enterprise-Procurement-System/) |
 | [portfolio](https://github.com/KArT4206/portfolio) | Personal portfolio with a live GitHub feed and admin CMS | 2026-11-05 | [Repo](https://github.com/KArT4206/portfolio) · [Live / docs](https://portfolio-kart4206s-projects.vercel.app) |
 | [wp ornaments](https://github.com/KArT4206/wp-ornaments) | 3D jewellery e-commerce store for WP Ornaments — Next.js, React Three Fiber, Supabase, Razorpay | 2026-10-29 | [Repo](https://github.com/KArT4206/wp-ornaments) · [Live / docs](https://wp-project-orpin.vercel.app/) |
@@ -204,13 +205,13 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 <!-- STATS:START -->
 <p align="center">
-<img src="https://img.shields.io/badge/public%20projects-20-0f172a?style=for-the-badge&labelColor=1d4ed8" alt="public projects">
+<img src="https://img.shields.io/badge/public%20projects-21-0f172a?style=for-the-badge&labelColor=1d4ed8" alt="public projects">
 <img src="https://img.shields.io/badge/stars-21-0f172a?style=for-the-badge&labelColor=b45309" alt="stars">
 <img src="https://img.shields.io/badge/followers-24-0f172a?style=for-the-badge&labelColor=047857" alt="followers">
 <img src="https://img.shields.io/badge/on%20GitHub%20since-2024-0f172a?style=for-the-badge&labelColor=7c3aed" alt="since">
 </p>
 
-<p align="center"><sub>Project list refreshed automatically · last run 18 Nov 2026, 00:05 UTC</sub></p>
+<p align="center"><sub>Project list refreshed automatically · last run 19 Nov 2026, 14:46 UTC</sub></p>
 <!-- STATS:END -->
 
 <p align="center">
