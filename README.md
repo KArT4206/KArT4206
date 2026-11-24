@@ -10,12 +10,53 @@
 
 <p align="center">
   <a href="https://portfolio-kart4206s-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/karthik-b-0b8905362"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/kart4206"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/KArT4206?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+  <a href="https://github.com/KArT4206?tab=followers"><img src="https://img.shields.io/github/followers/KArT4206?style=for-the-badge&logo=github&label=Follow&color=24292f" alt="Follow on GitHub"></a>
   <img src="https://komarev.com/ghpvc/?username=KArT4206&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 ---
+
+## Featured work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🏆 Smart-city traffic AI
+**IEEE Best Paper Award · ICDSBS 2026**
+
+Real-time vehicle detection and adaptive signal control with YOLOv8 + MobileNetV2 on STM32 hardware.<br>
+<sub>Accuracy 0.90 · recall 0.98 · 33.3% shorter signal cycles under heavy congestion</sub>
+
+[Paper (IEEE Xplore)](https://doi.org/10.1109/ICDSBS69077.2026.11634753)
+
+</td>
+<td width="33%" valign="top">
+
+### 👁️ ERM Triage Engine
+**Uncertainty-aware retinal OCT diagnosis**
+
+A CNN ensemble with Monte Carlo dropout that knows when to refer a scan to a specialist instead of guessing.<br>
+<sub>Held-out test AUC 1.000 · every error caught by the referral rule</sub>
+
+[Project site](https://kart4206.github.io/ERM-Triage-Engine/) · [Repo](https://github.com/KArT4206/ERM-Triage-Engine)
+
+</td>
+<td width="33%" valign="top">
+
+### 🧾 ProcureFlow
+**Enterprise Source-to-Pay platform**
+
+Requisition → rule-based approval → RFQ → PO → goods receipt → 3-way invoice match → payment, across 9 roles.<br>
+<sub>React 19 · Spring Boot 3.5 · PostgreSQL · JWT · light/dark UI</sub>
+
+[Project site](https://kart4206.github.io/Smart-Enterprise-Procurement-System/) · [Repo](https://github.com/KArT4206/Smart-Enterprise-Procurement-System)
+
+</td>
+</tr>
+</table>
 
 ## `$ whoami`
 
@@ -233,6 +274,6 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 ## Let's connect
 
-Open to collaboration on research, full-stack products and applied AI. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/karthik-b-0b8905362); my [portfolio](https://portfolio-kart4206s-projects.vercel.app) has a live feed of what I'm building.
+Open to collaboration on research, full-stack products and applied AI. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/kart4206); my [portfolio](https://portfolio-kart4206s-projects.vercel.app) has a live feed of what I'm building.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0ea5e9,45:1d4ed8,100:0f172a" alt="" />
