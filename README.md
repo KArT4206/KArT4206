@@ -92,12 +92,22 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 <tr>
 <td width="50%" valign="top">
 
+**[Haier TV Clean Home](https://github.com/KArT4206/Haier-TV-Clean-Home)**<br>
+<sub>Haier MatrixTV DE (Google TV 14) debloat and Apple TV-style launcher with a Remotes & Accessories shortcut, built on Gathin23/cleanyourtv</sub>
+
+
+
+</td>
+<td width="50%" valign="top">
+
 **[VIT Chennai Techtonic](https://github.com/KArT4206/VIT_Chennai_Techtonic)**<br>
 <sub>Samsung PRISM XR Hackathon 2026, Track 1 (Team Techtonic, VIT Chennai): synthetic eye movement & virtual camera rendering in Blender</sub>
 
 
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Sovereign HRMS](https://github.com/KArT4206/Sovereign-HRMS)**<br>
@@ -106,22 +116,12 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 `hrms` `multi-tenant` `payroll` `react`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[Smart Enterprise Procurement System](https://github.com/KArT4206/Smart-Enterprise-Procurement-System)**<br>
 <sub>Enterprise Source-to-Pay platform: rule-based approvals, RFQs, POs, goods receipt, 3-way invoice matching</sub>
 
 `erp` `java` `jwt` `postgresql`
-
-</td>
-<td width="50%" valign="top">
-
-**[wp ornaments](https://github.com/KArT4206/wp-ornaments)**<br>
-<sub>3D jewellery e-commerce store for WP Ornaments — Next.js, React Three Fiber, Supabase, Razorpay</sub>
-
-
 
 </td>
 </tr>
@@ -138,12 +138,12 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 | Project | What it does | Updated | |
 |---|---|---|---|
-| [CSC Retina ML](https://github.com/KArT4206/CSC-Retina-ML) | CSC detection on OCT with multi-model fusion, NSGA-II and MC-Dropout referral | 2026-10-21 | [Repo](https://github.com/KArT4206/CSC-Retina-ML) · [Live / docs](https://kart4206.github.io/CSC-Retina-ML/) |
-| [ERM Triage Engine](https://github.com/KArT4206/ERM-Triage-Engine) | Uncertainty-aware epiretinal membrane detection and triage on OCT (MC-Dropout ensemble) | 2026-10-21 | [Repo](https://github.com/KArT4206/ERM-Triage-Engine) · [Live / docs](https://kart4206.github.io/ERM-Triage-Engine/) |
-| [DNA Mutation Detection](https://github.com/KArT4206/DNA-Mutation-Detection) | Browser-based DNA sequence testing platform: 20 motif/mutation tests, results table and CSV export | 2026-10-08 | [Repo](https://github.com/KArT4206/DNA-Mutation-Detection) |
-| [Web Based DNA Sequence Analysis and Disease Prediction System with Administrative Dashboard](https://github.com/KArT4206/Web-Based-DNA-Sequence-Analysis-and-Disease-Prediction-System-with-Administrative-Dashboard) | DNA sequence analysis and genetic disease prediction with an admin dashboard | 2026-10-08 | [Repo](https://github.com/KArT4206/Web-Based-DNA-Sequence-Analysis-and-Disease-Prediction-System-with-Administrative-Dashboard) |
-| [genomic platform](https://github.com/KArT4206/genomic-platform) | Genomic Platform (front-end edition): React + Firebase DNA pattern analysis with 70 motif tests | 2026-10-08 | [Repo](https://github.com/KArT4206/genomic-platform) |
-| [Realtime heart rate monitor](https://github.com/KArT4206/Realtime_heart_rate_monitor) | This project detects a person’s heart rate in real-time using a camera. It analyzes subtle changes in skin color caused by blood flow and… | 2026-10-08 | [Repo](https://github.com/KArT4206/Realtime_heart_rate_monitor) |
+| [Realtime heart rate monitor](https://github.com/KArT4206/Realtime_heart_rate_monitor) | This project detects a person’s heart rate in real-time using a camera. It analyzes subtle changes in skin color caused by blood flow and… | 2026-11-24 | [Repo](https://github.com/KArT4206/Realtime_heart_rate_monitor) |
+| [genomic platform](https://github.com/KArT4206/genomic-platform) | Genomic Platform (front-end edition): React + Firebase DNA pattern analysis with 70 motif tests | 2026-11-24 | [Repo](https://github.com/KArT4206/genomic-platform) |
+| [Web Based DNA Sequence Analysis and Disease Prediction System with Administrative Dashboard](https://github.com/KArT4206/Web-Based-DNA-Sequence-Analysis-and-Disease-Prediction-System-with-Administrative-Dashboard) | DNA sequence analysis and genetic disease prediction with an admin dashboard | 2026-11-24 | [Repo](https://github.com/KArT4206/Web-Based-DNA-Sequence-Analysis-and-Disease-Prediction-System-with-Administrative-Dashboard) |
+| [DNA Mutation Detection](https://github.com/KArT4206/DNA-Mutation-Detection) | Browser-based DNA sequence testing platform: 20 motif/mutation tests, results table and CSV export | 2026-11-24 | [Repo](https://github.com/KArT4206/DNA-Mutation-Detection) |
+| [CSC Retina ML](https://github.com/KArT4206/CSC-Retina-ML) | CSC detection on OCT with multi-model fusion, NSGA-II and MC-Dropout referral | 2026-11-24 | [Repo](https://github.com/KArT4206/CSC-Retina-ML) · [Live / docs](https://kart4206.github.io/CSC-Retina-ML/) |
+| [ERM Triage Engine](https://github.com/KArT4206/ERM-Triage-Engine) | Uncertainty-aware epiretinal membrane detection and triage on OCT (MC-Dropout ensemble) | 2026-11-24 | [Repo](https://github.com/KArT4206/ERM-Triage-Engine) · [Live / docs](https://kart4206.github.io/ERM-Triage-Engine/) |
 
 </details>
 
@@ -152,11 +152,11 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 | Project | What it does | Updated | |
 |---|---|---|---|
+| [phishing website](https://github.com/KArT4206/phishing_website) | A tool for simulating phishing attacks, designed to help cybersecurity professionals and enthusiasts understand phishing techniques in a… | 2026-11-24 | [Repo](https://github.com/KArT4206/phishing_website) |
+| [phishing detection using ML](https://github.com/KArT4206/phishing-detection_using-ML) | This project uses machine learning models like Decision Tree, Random Forest, and XGBoost to detect phishing websites based on extracted URL… | 2026-11-24 | [Repo](https://github.com/KArT4206/phishing-detection_using-ML) |
+| [advanced phishing detection](https://github.com/KArT4206/advanced_phishing_detection) | PhishShield: multi-heuristic phishing detection (TLS, WHOIS, OCR, visual and NLP checks) | 2026-11-24 | [Repo](https://github.com/KArT4206/advanced_phishing_detection) |
+| [ai secure voice assistant](https://github.com/KArT4206/ai_secure_voice_assistant) | Voice assistant with keystroke-dynamics login, speech-to-text, sentiment, intent and summarisation | 2026-11-24 | [Repo](https://github.com/KArT4206/ai_secure_voice_assistant) |
 | [VaultRecover](https://github.com/KArT4206/VaultRecover) | Free, honest password recovery for your own ZIP and PDF files: verifies every candidate against the real file (Next.js, Prisma, BullMQ) | 2026-10-26 | [Repo](https://github.com/KArT4206/VaultRecover) · [Live / docs](https://vaultrecover-topaz.vercel.app) |
-| [ai secure voice assistant](https://github.com/KArT4206/ai_secure_voice_assistant) | Voice assistant with keystroke-dynamics login, speech-to-text, sentiment, intent and summarisation | 2026-10-08 | [Repo](https://github.com/KArT4206/ai_secure_voice_assistant) |
-| [advanced phishing detection](https://github.com/KArT4206/advanced_phishing_detection) | PhishShield: multi-heuristic phishing detection (TLS, WHOIS, OCR, visual and NLP checks) | 2026-10-08 | [Repo](https://github.com/KArT4206/advanced_phishing_detection) |
-| [phishing detection using ML](https://github.com/KArT4206/phishing-detection_using-ML) | This project uses machine learning models like Decision Tree, Random Forest, and XGBoost to detect phishing websites based on extracted URL… | 2026-10-08 | [Repo](https://github.com/KArT4206/phishing-detection_using-ML) |
-| [phishing website](https://github.com/KArT4206/phishing_website) | A tool for simulating phishing attacks, designed to help cybersecurity professionals and enthusiasts understand phishing techniques in a… | 2025-06-13 | [Repo](https://github.com/KArT4206/phishing_website) |
 
 </details>
 
@@ -165,8 +165,8 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 | Project | What it does | Updated | |
 |---|---|---|---|
-| [document summary assistant](https://github.com/KArT4206/document-summary-assistant) | AI document summarization (PDF/OCR extraction, Gemini with Ollama fallback) | 2026-10-08 | [Repo](https://github.com/KArT4206/document-summary-assistant) |
-| [Soil Driven Crop Recommendation System](https://github.com/KArT4206/Soil-Driven_Crop_Recommendation_System) | R machine-learning crop recommendation from soil and climate data (Random Forest, 99.55% accuracy) | 2026-10-08 | [Repo](https://github.com/KArT4206/Soil-Driven_Crop_Recommendation_System) |
+| [Soil Driven Crop Recommendation System](https://github.com/KArT4206/Soil-Driven_Crop_Recommendation_System) | R machine-learning crop recommendation from soil and climate data (Random Forest, 99.55% accuracy) | 2026-11-24 | [Repo](https://github.com/KArT4206/Soil-Driven_Crop_Recommendation_System) |
+| [document summary assistant](https://github.com/KArT4206/document-summary-assistant) | AI document summarization (PDF/OCR extraction, Gemini with Ollama fallback) | 2026-11-24 | [Repo](https://github.com/KArT4206/document-summary-assistant) |
 
 </details>
 
@@ -175,9 +175,9 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 | Project | What it does | Updated | |
 |---|---|---|---|
-| [Fog Based Multi Node Environmental Anomaly Detection on ESP32](https://github.com/KArT4206/Fog-Based-Multi-Node-Environmental-Anomaly-Detection-on-ESP32) | Three-ESP32 fog/edge environmental and safety monitoring with context-aware anomaly scoring and a local dashboard | 2026-10-08 | [Repo](https://github.com/KArT4206/Fog-Based-Multi-Node-Environmental-Anomaly-Detection-on-ESP32) |
-| [System Resource Usage Monitor with Email Alerts](https://github.com/KArT4206/System_Resource_Usage_Monitor_with_Email_Alerts) | A lightweight Bash script to monitor system resources (CPU, Memory, and Disk usage) and send email alerts when predefined thresholds are… | 2026-10-08 | [Repo](https://github.com/KArT4206/System_Resource_Usage_Monitor_with_Email_Alerts) |
-| [Traffic Light Scheduling System](https://github.com/KArT4206/Traffic_Light_Scheduling_System) | An adaptive traffic signal scheduling system that calculates green light durations based on vehicle queue lengths from four directions… | 2026-10-08 | [Repo](https://github.com/KArT4206/Traffic_Light_Scheduling_System) |
+| [Traffic Light Scheduling System](https://github.com/KArT4206/Traffic_Light_Scheduling_System) | An adaptive traffic signal scheduling system that calculates green light durations based on vehicle queue lengths from four directions… | 2026-11-24 | [Repo](https://github.com/KArT4206/Traffic_Light_Scheduling_System) |
+| [System Resource Usage Monitor with Email Alerts](https://github.com/KArT4206/System_Resource_Usage_Monitor_with_Email_Alerts) | A lightweight Bash script to monitor system resources (CPU, Memory, and Disk usage) and send email alerts when predefined thresholds are… | 2026-11-24 | [Repo](https://github.com/KArT4206/System_Resource_Usage_Monitor_with_Email_Alerts) |
+| [Fog Based Multi Node Environmental Anomaly Detection on ESP32](https://github.com/KArT4206/Fog-Based-Multi-Node-Environmental-Anomaly-Detection-on-ESP32) | Three-ESP32 fog/edge environmental and safety monitoring with context-aware anomaly scoring and a local dashboard | 2026-11-24 | [Repo](https://github.com/KArT4206/Fog-Based-Multi-Node-Environmental-Anomaly-Detection-on-ESP32) |
 
 </details>
 
@@ -186,19 +186,20 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 | Project | What it does | Updated | |
 |---|---|---|---|
-| [Sovereign HRMS](https://github.com/KArT4206/Sovereign-HRMS) | Enterprise multi-tenant HRMS with no-code control centre (live demo) | 2026-11-22 | [Repo](https://github.com/KArT4206/Sovereign-HRMS) · [Live / docs](https://sovereign-hrms-demo.vercel.app) |
-| [Smart Enterprise Procurement System](https://github.com/KArT4206/Smart-Enterprise-Procurement-System) | Enterprise Source-to-Pay platform: rule-based approvals, RFQs, POs, goods receipt, 3-way invoice matching | 2026-11-06 | [Repo](https://github.com/KArT4206/Smart-Enterprise-Procurement-System) · [Live / docs](https://kart4206.github.io/Smart-Enterprise-Procurement-System/) |
-| [portfolio](https://github.com/KArT4206/portfolio) | Personal portfolio with a live GitHub feed and admin CMS | 2026-11-05 | [Repo](https://github.com/KArT4206/portfolio) · [Live / docs](https://portfolio-kart4206s-projects.vercel.app) |
-| [wp ornaments](https://github.com/KArT4206/wp-ornaments) | 3D jewellery e-commerce store for WP Ornaments — Next.js, React Three Fiber, Supabase, Razorpay | 2026-10-29 | [Repo](https://github.com/KArT4206/wp-ornaments) · [Live / docs](https://wp-project-orpin.vercel.app/) |
-| [Vibe hive SocialBloggingMadeEasy](https://github.com/KArT4206/Vibe-hive_SocialBloggingMadeEasy) | VibeHive is a web-based platform that connects people through real-time chat and blogs. It features secure login, admin controls, blog… | 2026-10-08 | [Repo](https://github.com/KArT4206/Vibe-hive_SocialBloggingMadeEasy) |
+| [Vibe hive SocialBloggingMadeEasy](https://github.com/KArT4206/Vibe-hive_SocialBloggingMadeEasy) | VibeHive is a web-based platform that connects people through real-time chat and blogs. It features secure login, admin controls, blog… | 2026-11-24 | [Repo](https://github.com/KArT4206/Vibe-hive_SocialBloggingMadeEasy) |
+| [wp ornaments](https://github.com/KArT4206/wp-ornaments) | 3D jewellery e-commerce store for WP Ornaments — Next.js, React Three Fiber, Supabase, Razorpay | 2026-11-24 | [Repo](https://github.com/KArT4206/wp-ornaments) · [Live / docs](https://wp-project-orpin.vercel.app/) |
+| [Sovereign HRMS](https://github.com/KArT4206/Sovereign-HRMS) | Enterprise multi-tenant HRMS with no-code control centre (live demo) | 2026-11-24 | [Repo](https://github.com/KArT4206/Sovereign-HRMS) · [Live / docs](https://sovereign-hrms-demo.vercel.app) |
+| [portfolio](https://github.com/KArT4206/portfolio) | Personal portfolio with a live GitHub feed and admin CMS | 2026-11-24 | [Repo](https://github.com/KArT4206/portfolio) · [Live / docs](https://portfolio-kart4206s-projects.vercel.app) |
+| [Smart Enterprise Procurement System](https://github.com/KArT4206/Smart-Enterprise-Procurement-System) | Enterprise Source-to-Pay platform: rule-based approvals, RFQs, POs, goods receipt, 3-way invoice matching | 2026-11-24 | [Repo](https://github.com/KArT4206/Smart-Enterprise-Procurement-System) · [Live / docs](https://kart4206.github.io/Smart-Enterprise-Procurement-System/) |
 
 </details>
 
 <details open>
-<summary><b>Other projects</b> · 1</summary>
+<summary><b>Other projects</b> · 2</summary>
 
 | Project | What it does | Updated | |
 |---|---|---|---|
+| [Haier TV Clean Home](https://github.com/KArT4206/Haier-TV-Clean-Home) | Haier MatrixTV DE (Google TV 14) debloat and Apple TV-style launcher with a Remotes & Accessories shortcut, built on Gathin23/cleanyourtv | 2026-11-24 | [Repo](https://github.com/KArT4206/Haier-TV-Clean-Home) |
 | [VIT Chennai Techtonic](https://github.com/KArT4206/VIT_Chennai_Techtonic) | Samsung PRISM XR Hackathon 2026, Track 1 (Team Techtonic, VIT Chennai): synthetic eye movement & virtual camera rendering in Blender | 2026-11-22 | [Repo](https://github.com/KArT4206/VIT_Chennai_Techtonic) |
 
 </details>
@@ -255,13 +256,13 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 <!-- STATS:START -->
 <p align="center">
-<img src="https://img.shields.io/badge/public%20projects-22-0f172a?style=for-the-badge&labelColor=1d4ed8" alt="public projects">
+<img src="https://img.shields.io/badge/public%20projects-23-0f172a?style=for-the-badge&labelColor=1d4ed8" alt="public projects">
 <img src="https://img.shields.io/badge/stars-21-0f172a?style=for-the-badge&labelColor=b45309" alt="stars">
 <img src="https://img.shields.io/badge/followers-23-0f172a?style=for-the-badge&labelColor=047857" alt="followers">
 <img src="https://img.shields.io/badge/on%20GitHub%20since-2024-0f172a?style=for-the-badge&labelColor=7c3aed" alt="since">
 </p>
 
-<p align="center"><sub>Project list refreshed automatically · last run 23 Nov 2026, 04:17 UTC</sub></p>
+<p align="center"><sub>Project list refreshed automatically · last run 24 Nov 2026, 16:34 UTC</sub></p>
 <!-- STATS:END -->
 
 <p align="center">
