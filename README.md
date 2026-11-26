@@ -73,7 +73,7 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 | Role | Organisation | Period |
 |---|---|---|
 | **Head Developer**, TN Vendor project | Government of Tamil Nadu | Current |
-| **Electronics Team**: live race-car telemetry (speed, location) to the pit crew over long-range LoRa radio | Team Blitz Racing, Chennai | Sep 2024 – present |
+| **Electronics Team**: live race-car telemetry (speed, location) to the pit crew over long-range LoRa radio | Team Blitz Racing, Chennai | Sep 2024 – Sep 2026 |
 
 ## Honors & research
 
