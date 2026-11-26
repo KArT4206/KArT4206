@@ -134,7 +134,7 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 <!-- PROJECTS:START -->
 <details open>
-<summary><b>Medical imaging & health AI</b> · 6</summary>
+<summary><b>Medical imaging & health AI</b> · 4</summary>
 
 | Project | What it does | Updated | |
 |---|---|---|---|
@@ -142,8 +142,6 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 | [genomic platform](https://github.com/KArT4206/genomic-platform) | Genomic Platform (front-end edition): React + Firebase DNA pattern analysis with 70 motif tests | 2026-11-24 | [Repo](https://github.com/KArT4206/genomic-platform) |
 | [Web Based DNA Sequence Analysis and Disease Prediction System with Administrative Dashboard](https://github.com/KArT4206/Web-Based-DNA-Sequence-Analysis-and-Disease-Prediction-System-with-Administrative-Dashboard) | DNA sequence analysis and genetic disease prediction with an admin dashboard | 2026-11-24 | [Repo](https://github.com/KArT4206/Web-Based-DNA-Sequence-Analysis-and-Disease-Prediction-System-with-Administrative-Dashboard) |
 | [DNA Mutation Detection](https://github.com/KArT4206/DNA-Mutation-Detection) | Browser-based DNA sequence testing platform: 20 motif/mutation tests, results table and CSV export | 2026-11-24 | [Repo](https://github.com/KArT4206/DNA-Mutation-Detection) |
-| [CSC Retina ML](https://github.com/KArT4206/CSC-Retina-ML) | CSC detection on OCT with multi-model fusion, NSGA-II and MC-Dropout referral | 2026-11-24 | [Repo](https://github.com/KArT4206/CSC-Retina-ML) · [Live / docs](https://kart4206.github.io/CSC-Retina-ML/) |
-| [ERM Triage Engine](https://github.com/KArT4206/ERM-Triage-Engine) | Uncertainty-aware epiretinal membrane detection and triage on OCT (MC-Dropout ensemble) | 2026-11-24 | [Repo](https://github.com/KArT4206/ERM-Triage-Engine) · [Live / docs](https://kart4206.github.io/ERM-Triage-Engine/) |
 
 </details>
 
@@ -256,13 +254,13 @@ focus:     [AI/ML, full-stack, cybersecurity, embedded systems, research]
 
 <!-- STATS:START -->
 <p align="center">
-<img src="https://img.shields.io/badge/public%20projects-23-0f172a?style=for-the-badge&labelColor=1d4ed8" alt="public projects">
-<img src="https://img.shields.io/badge/stars-21-0f172a?style=for-the-badge&labelColor=b45309" alt="stars">
+<img src="https://img.shields.io/badge/public%20projects-21-0f172a?style=for-the-badge&labelColor=1d4ed8" alt="public projects">
+<img src="https://img.shields.io/badge/stars-19-0f172a?style=for-the-badge&labelColor=b45309" alt="stars">
 <img src="https://img.shields.io/badge/followers-23-0f172a?style=for-the-badge&labelColor=047857" alt="followers">
 <img src="https://img.shields.io/badge/on%20GitHub%20since-2024-0f172a?style=for-the-badge&labelColor=7c3aed" alt="since">
 </p>
 
-<p align="center"><sub>Project list refreshed automatically · last run 24 Nov 2026, 16:34 UTC</sub></p>
+<p align="center"><sub>Project list refreshed automatically · last run 26 Nov 2026, 15:53 UTC</sub></p>
 <!-- STATS:END -->
 
 <p align="center">
